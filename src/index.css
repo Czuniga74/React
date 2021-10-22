@@ -1,0 +1,35 @@
+.main{
+	border-color: black;
+	border-style: solid;
+	width: 500px;
+	height: 500px;
+	display: block;
+	text-align: center;
+}
+
+button {
+	width: 200px;
+	height: 50px;
+	margin: 20px;
+	font-weight: 900;
+}
+
+
+
+.DivRed{
+	display:flex;
+	background-color:red;
+	width: 500px;
+	height: 300px;
+}
+.DivBlue{
+	background-color:blue;
+	width: 500px;
+	height: 300px;
+}
+.DivYellow{
+	
+	background-color:yellow;
+	width: 500px;
+	height: 300px;
+}
